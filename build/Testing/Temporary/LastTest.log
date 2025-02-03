@@ -1,0 +1,21 @@
+Start testing: Aug 02 16:39 AEST
+----------------------------------------------------------
+1/1 Testing: gdwg_graph_test
+1/1 Test: gdwg_graph_test
+Command: "/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/gdwg_graph_test_exe"
+Directory: /import/kamen/6/z5473493/Documents/COMP6771/ass3/build
+"gdwg_graph_test" start time: Aug 02 16:39 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (70 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"gdwg_graph_test" end time: Aug 02 16:39 AEST
+"gdwg_graph_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 02 16:39 AEST

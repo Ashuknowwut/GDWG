@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/gdwg_graph_test_exe.dir/src/gdwg_graph.test.cpp.o -o gdwg_graph_test_exe  libcatch2_main.a libgdwg_graph.a libcatch2_main.a 

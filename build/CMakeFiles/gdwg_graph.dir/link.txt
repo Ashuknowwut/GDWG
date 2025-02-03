@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgdwg_graph.a CMakeFiles/gdwg_graph.dir/src/gdwg_graph.cpp.o
+/usr/bin/ranlib libgdwg_graph.a

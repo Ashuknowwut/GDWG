@@ -1,0 +1,7 @@
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/catch2_main.dir
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/gdwg_graph.dir
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/client.dir
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/gdwg_graph_test_exe.dir
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/test.dir
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/edit_cache.dir
+/import/kamen/6/z5473493/Documents/COMP6771/ass3/build/CMakeFiles/rebuild_cache.dir
